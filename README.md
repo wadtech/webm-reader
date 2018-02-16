@@ -1,6 +1,6 @@
 # I needed something to read and dump the header of a webm file
 
-So here it is.
+So here it is. `webm-reader` uses [`pixelbender/go-matroska`](https://github.com/pixelbender/go-matroska) (thanks!) for the actual unpacking and reading.
 
 ## install
 
